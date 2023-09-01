@@ -9,4 +9,17 @@ for i in range(len(b)):
         sum+=1
 print(sum)
 
+
+
+
+
 #https://www.acmicpc.net/problem/10807
+'''
+n = int(input())
+n_list = list(map(int, input().split()))
+v = int(input())
+
+print(n_list.count(v))
+...
+
+#이게 뭐야...

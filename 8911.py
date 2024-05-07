@@ -33,3 +33,4 @@ for _ in range(a):
     h = maxy - miny
     area = w * h
     print(area)
+#

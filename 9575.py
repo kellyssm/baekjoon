@@ -3,7 +3,6 @@ input = sys.stdin.read
 data = input().split()
     
 index = 0
-T = int(data[index]) #테스트케이스
 index += 1
 results = []
     
